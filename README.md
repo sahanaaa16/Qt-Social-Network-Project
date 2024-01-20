@@ -10,7 +10,9 @@ addicted to their realm. It is a scary and unnerving fact that much of what make
 The far scarier facet is that social media companies hold the power to change our tastes and possibly manipulate our thinking or line of reasoning in any known context
 
 I am incredibly interested in the power of social media, data science, and artificial intelligence in their abilities to drastically impact voting behaviors and 
-tendencies. It combines my love for all things politics with my primary major in college and my undying yearning to understand what makes the world go round and 
+tendencies. It combines my love for all things politics with my primary major in college and my undying yearning to understand what makes the world go 'round and 
 if we should be engaging in these activities in the first place.
 
 Thank you for reading and I hope you have a wonderous day :)
+
+**I user Qt Creator to create the interface. No clue how this works within other systems (it probably doesn't), but using these files on Qt will create .pro.user files for you and will run on your system :)
